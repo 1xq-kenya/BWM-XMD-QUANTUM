@@ -1,8 +1,8 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "BEN-MD",
+  "description": "Best WhatsApp bot developed by Benson Ngugi",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -51,7 +51,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "BEN-XMD",
       "required": false
     },
     "BOT_URL": {
@@ -61,22 +61,22 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
       "description": "Enter your Heroku API key to be able to control your vars",
-      "value": "",
+      "value": "HRKU-1757d587-73c3-40d0-922c-00751e58891a",
       "required": false 
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "",
+      "value": "BEN",
       "required": false 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254727374449",
       "required": true 
     },
     "STATUS_REACT_EMOJIS": {
@@ -86,7 +86,7 @@
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
-      "value": "no",
+      "value": "yes",
       "required": false 
     },
     "AUTO_REACT_STATUS": {
@@ -96,12 +96,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Ben",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VUWW7jRhC9yqB/JYy4LwIMRFwsUjRlrdYS5KNFNsmWuDabpOiBf3KFIECABPEVkivlBD5CQNnOGJjJxOFXs5dX71W9qk8gzXCJHNSC4SeQE1xDirolbXMEhkCrggAR0Ac+pBAMQTE+4JbbSnAu9uoaJYuw1zvGBXe7aHlP16NZcBR6mjWNGPsKPPRBXh1i7H0D0PWxNjrdOxU08lW923gwMqyprNxYxo0drMTETucqEc5j1r0CDx0ixASnoZlHKEEExg5qZxCT99G3XQYVmZTfwVLdp7fjbH0Sov1uZEWo4Jt7eAhaV2ILfLsp30dfup1Kdp6TpqaCcTxOjw5d3LWTZD/ZHBeVy28nk8LsGVy6GD3TL3GYIt/2UUoxbd+dd8c6k8FSFblKaj0VqlrcTBfHXSVW8SAI7keCGDSebPTweP0+4uPktk6393uJQStO5YVCiRnbqIOeEG2201qdTvLteJLsN0fvLfEZefXK6f/kXboxPHa+XlhKOunNg4FemOxK3NTjdaNTByH+vDxIYW92xzfvo49YZxxWx4GTW2crcoVrGOKz1ZwdepLF867GkWUKk57Mm+Fn+pBW5FssTYebT6u5MJ6HtTa933jBYtAwlaK661IrbHnHW8npOj7Udr0IefcQL2c7UmZ8vDK5s95yO8v1Wv58HARyzG+arcZvRK25uig6odb2wZB96AOCQlxSAinO0sueovYB9Osl8giil/QCl+6P8sxczK8lnebOglvMlspEq5GfcDtJRKtDrLPqEq685gr0QU4yD5Ul8i1c0oy0LipLGKISDL+/VKoTTVCSUTTBPhgCThRYlpNkgWHV78qPTQRpCfP8Y4oo6IOAZImLwJCSCvXB5YHM8AajmKwgs7KksLyumgajKIzBGSOW5c1OYvIcdIUTVFKY5GDIyiLH8rIsqQ8/9EGKzvTZP51qnu2DAJOSrtMqjzPov5rr9RB6XlaldNmmnt4tEAHDN9uIUpyGZaesSiHxIlwjvdMBhgGMS/RPohFB/quWl+GhZ35Xf2u6nYnujAEd9w7oi9wMJenL9MSXa6wg8oIkioqkqILAdje7gz5IYQcGnh5/+vOv339+evz1t6fHxz8+LFECPwQVgRF8evzlxy5hL1K6yD6iEMclGAJ9OoNyFV6bM35Qe+54PMrCkR6OwGfpr1Z+tkpjrNtkPfG8E96rDtxcO2W9jHc3017oNm0vs9Vs49h4Ise7q6+AdAhbLdgKSzaANzcN4VvhNFYaT8nNlZVxeICja/ZOgNyxPMU8z6iSa5QldXN37G+sOELjalYoMbWKmBWFQmlOGZ+djc73feCjGnvobTCSGmt6tibTeWBKSWnvlxnDawpGojnVsNbITpyflgfplr3lHOPs6nLt1MV+h7YTNQgZ4d4c6eO2EGlkuvqdjTYr0uovTXZp8vhluOIX++PLb4DRZVa9VOc/i/xMvPMi89B/g/Ey/f5lgmjeiHXzWN9aEzsJlkkcLckNk2/0+yAzXLcu9Bm8xtjGSNyAh64p8hjSICMJGAKY+iS7WIhkVWduOw2ybwTTR4ytzZ+Vx7Cko88N85UeFJTnWzOS5RYso87CjhBZQuf+dpTnSwrpa/+BUfdplQMe/gZX8PHKIggAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -111,7 +111,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -126,7 +126,7 @@
     },	  
     "GROUPANTILINK": {
       "description": "Enable anti-link in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "CHATBOT": {
